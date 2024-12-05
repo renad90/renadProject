@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+C:\Users\refxo\OneDrive\Desktop\maven\.metadata\.plugins\org.eclipse.jdt.core
+1875556238.index
+3463240283.index
+311147078.index
+2316769171.index
+3774908347.index
+4250182394.index
+3601045501.index
+1865797976.index
+543132012.index
+2612654954.index
+60216013.index
